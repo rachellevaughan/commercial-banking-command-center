@@ -4,7 +4,7 @@
 
 The **Client & Credit Command Center** is an interactive commercial banking analytics application designed to help bankers better understand their clients and support informed lending decisions.
 
-By bringing together financial performance, credit capacity, covenant resilience, working-capital needs, and relationship opportunities, the application provides a holistic view of a mid-market client — helping a commercial banker assess both **risk and opportunity** in one place.
+By bringing together financial performance, credit capacity, covenant resilience, working capital needs, and relationship opportunities, the application provides a holistic view of a mid-market client, helping a commercial banker assess both **risk and opportunity** in one place.
 
 > **Portfolio Project:** This is an independent project created using synthetic data for demonstration purposes. It is not affiliated with, endorsed by, or commissioned by TD Bank Group.
 
@@ -13,12 +13,12 @@ By bringing together financial performance, credit capacity, covenant resilience
 ## 🔗 Explore the Project
 
 ### Live Demo
-**[Launch the Interactive App →](YOUR_STREAMLIT_URL_HERE)**
+**[Launch the Interactive App →] https://commercial-banking-command-center.streamlit.app/**
 
 Explore different client profiles, adjust credit assumptions, stress-test financial performance, and see how changes flow through to lending metrics and credit recommendations.
 
 ### Source Code
-**[View the GitHub Repository →](YOUR_GITHUB_URL_HERE)**
+**[View the GitHub Repository →] https://github.com/rachellevaughan/commercial-banking-command-center**
 
 ---
 
@@ -27,14 +27,16 @@ Explore different client profiles, adjust credit assumptions, stress-test financ
 ![Client & Credit Command Center Preview](assets/app-preview.png)
 
 *Interactive commercial banking dashboard combining relationship analytics, credit assessment, covenant monitoring, and working-capital analysis.*
+<img width="1680" height="929" alt="Screenshot 2026-08-14 at 1 06 30 PM" src="https://github.com/user-attachments/assets/f6d65add-94ae-442a-acf3-c72ad406238f" />
+<img width="1680" height="931" alt="Screenshot 2026-08-14 at 1 07 32 PM" src="https://github.com/user-attachments/assets/4c563d2b-989c-4275-9239-d307b7551454" />
+
+
 
 ---
 
-## Why I Built This
+## The Audience
 
 Commercial banking requires more than analyzing financial statements. A strong commercial banker needs to understand the **business behind the numbers** — how a client generates cash, uses credit, manages working capital, withstands downside scenarios, and could benefit from a broader banking relationship.
-
-I built this project to explore that decision-making process through an interactive tool.
 
 The application is designed around a simple question:
 
